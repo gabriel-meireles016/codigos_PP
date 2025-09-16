@@ -12,6 +12,7 @@ int compara_elementos(const void* a, const void* b){
 
 
 // criar as funções minimo_vetor e maximo_vetor
+// min fazendo merge ate o N
 
 void par_oddeven(int *A, int n, int rank, int size){
     int B[n];
